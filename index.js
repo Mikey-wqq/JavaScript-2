@@ -79,6 +79,43 @@ if(job == 'lawyer'){
     
 }
 
+var classmates = ['Damola', 'Sidney', 'Ayo', 'Banjo', 'Tochukwu', 'Mr Oni', 'Riddwan']
+console.log(classmates);
+classmates.push('ehis')
+console.log(classmates);
+classmates.push('daniel')
+console.log(classmates);
+classmates.pop()
+console.log(classmates);
+classmates.shift()
+console.log(classmates);
+classmates.unshift('Damola')
+console.log(classmates);
+
+console.log(classmates.length);
+console.log(classmates[2]);
+
+classmates[3]= 'alabi'
+console.log(classmates);
+
+classmates[7]= 'temitayo'
+console.log(classmates);
+
+
+
+
+
+
+
+
+
+
+
+// var texting = ['jagons', 'false', false, 50, null, 'null', undefined]
+// console.log(texting);
+
+
+
 
 
 
